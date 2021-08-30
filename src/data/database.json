@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8d68c8b8-9d41-4e4a-abc8-114080b13a76",
+    "description": "Bolsa Estágio",
+    "date": "2021-08-30T16:27",
+    "category": "salary",
+    "type": "in",
+    "value": "1625"
+  },
+  {
+    "id": "9fb1b6e4-e140-4442-ad2e-0ce8f46cccf9",
+    "description": "O que sobrou de agosto",
+    "date": "2021-08-30T16:29",
+    "category": "salary",
+    "type": "in",
+    "value": "69.25"
+  },
+  {
+    "id": "048686c1-1821-4693-9028-caa3e370ff43",
+    "description": "Luz agosto",
+    "date": "2021-08-30T16:32",
+    "category": "living",
+    "type": "out",
+    "value": "112.91"
+  }
+]

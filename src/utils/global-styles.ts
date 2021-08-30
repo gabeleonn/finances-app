@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import theme from '@/utils/Theme';
+import theme from '@/utils/theme';
 
 export default createGlobalStyle`
   /*  CSS RESET */
@@ -65,7 +65,8 @@ export default createGlobalStyle`
   button,
   textarea,
   select {
-    font-family: 'Clan Pro', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
   }
 
   a {
@@ -106,7 +107,6 @@ export default createGlobalStyle`
 
   p {
     font-size: 13px;
-    line-height: 24px;
     font-weight: ${theme.weights.regular};
   }
 
